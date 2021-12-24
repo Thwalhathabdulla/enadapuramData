@@ -22,5 +22,22 @@
             "place" : "place1",
             "number" : "953901544"
         }
+    ],
+    "Police" : [
+        {
+            "name" : "name1",
+            "place" : "place1",
+            "number" : "953901544"
+        },
+        {
+            "name" : "name1",
+            "place" : "place1",
+            "number" : "953901544"
+        },
+        {
+            "name" : "name1",
+            "place" : "place1",
+            "number" : "953901544"
+        }
     ]
 }
