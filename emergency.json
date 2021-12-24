@@ -1,11 +1,13 @@
 {
     "Ambulance" : [
         {
+            "id" : 1,
             "name" : "name1",
             "place" : "place1",
             "number" : "953901544"
         },
         {
+            "id" : 2,
             "name" : "name1",
             "place" : "place1",
             "number" : "953901544"
@@ -13,11 +15,13 @@
     ],
     "FireForce" : [
         {
+            "id" : 1,
             "name" : "name1111",
             "place" : "place1",
             "number" : "953901544"
         },
         {
+            "id" : 2,
             "name" : "name1",
             "place" : "place1",
             "number" : "953901544"
@@ -25,16 +29,19 @@
     ],
     "Police" : [
         {
+            "id" : 1,
             "name" : "name1",
             "place" : "place1",
             "number" : "953901544"
         },
         {
+            "id" : 2,
             "name" : "name1",
             "place" : "place1",
             "number" : "953901544"
         },
         {
+            "id" : 3,
             "name" : "name1",
             "place" : "place1",
             "number" : "953901544"
